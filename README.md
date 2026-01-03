@@ -1,4 +1,4 @@
-## Hi there 👋
+## Assalam U Alaikum 
 
 # 💫 About Me:
 <br>🎓 I'm a student learning programming and development  | <br>💡 I enjoy building small projects and improving my skills  | <br>💻 Love coding & creating things  |<br>🌱 Learning something new every day |<br>⚡ Code • Learn • Build  • Improve
